@@ -5,7 +5,7 @@
     'description': "Allows grouped confirmations for PO's",
     'author': 'Niels Ruelens',
     'website': 'http://clubit.be',
-    'summary': "Allows grouped confirmations for PO's",
+    'summary': "Allows grouped confirmations for PO's ",
     'sequence': 9,
     'depends': [
         'purchase',
